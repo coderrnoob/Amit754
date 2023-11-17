@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit754
+- 👋 Hi, I’m @noobcoderr
 - 👀 I’m interested in coding, app developing and gaming
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
